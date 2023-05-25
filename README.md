@@ -44,4 +44,4 @@ qTime is a simple command-line application written in Rust that retrieves the cu
      
 ## License
 
-This project is licensed under the GPL 3.0
+This project is licensed under the [GPL 3.0 license]([cheemsbread.xyz](https://github.com/CheemsBread505/qtime/blob/main/LICENSE))
