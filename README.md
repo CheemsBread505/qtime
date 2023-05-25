@@ -10,11 +10,11 @@ qTime is a simple command-line application written in Rust that retrieves the cu
 
 - Clone the repository or download the source code files.
 
-      git clone https://github.com/your-username/qTime.git
+      git clone https://github.com/CheemsBread505/qtime/
 
 - Navigate to the project directory.
 
-      cd qTime
+      cd qtime
       
 - Build the application using the Rust package manager, Cargo.
 
@@ -25,10 +25,10 @@ qTime is a simple command-line application written in Rust that retrieves the cu
 ## Usage
 
 - Open a terminal or command prompt
-- Navigate to the directory containing the `qTime` executable.
+- Navigate to the directory containing the `qtime` executable.
 - Run the application.
 
-      ./qTime
+      ./qtime
 
 ## Features
 
