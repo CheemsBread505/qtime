@@ -2,7 +2,7 @@ use chrono::prelude::*;
 use users::get_current_username;
 
 fn main() {
-    //get's the user name of the user and then prints
+    // Get's the user name of the user and then prints
     match get_current_username() {
         Some(username) => {
             println!("Hello: {}", username.to_string_lossy());
@@ -12,10 +12,10 @@ fn main() {
         }
     }
 
-    //get's time and then prints it
+    // Get's time and date
     let local: DateTime<Local> = Local::now();
-    //date
+    // Prints the date to console
     println!("The date is: {}", local.format("%Y-%m-%d"));
-    //time
+    // Prints the time to console
     println!("The time is: {}", local.format("%I:%M:%S %p"));
 }
